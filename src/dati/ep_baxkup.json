@@ -1,0 +1,346 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstname": "Mike"
+        },
+        {
+            "id": 2,
+            "firstname": "Belle"
+        },
+        {
+            "id": 3,
+            "firstname": "Vincent"
+        },
+        {
+            "id": 4,
+            "firstname": "Allen"
+        },
+        {
+            "id": 5,
+            "firstname": "Raymond"
+        },
+        {
+            "id": 6,
+            "firstname": "Matthew"
+        },
+        {
+            "id": 7,
+            "firstname": "Tyler"
+        },
+        {
+            "id": 8,
+            "firstname": "Mayme"
+        },
+        {
+            "id": 9,
+            "firstname": "Sandro"
+        },
+        {
+            "id": 10,
+            "firstname": "Lucy"
+        }
+    ],
+    "todos": [
+        {
+            "id": 1,
+            "user_id": 1,
+            "task": "Get the milk",
+            "done": true
+        },
+        {
+            "id": 2,
+            "user_id": 4,
+            "task": "A kind tangerine's peach comes with it the thought that the affectionate hamster is a prune",
+            "done": true
+        },
+        {
+            "id": 3,
+            "user_id": 5,
+            "task": "The reliable fish comes from a capable octopus",
+            "done": false
+        },
+        {
+            "id": 4,
+            "user_id": 5,
+            "task": "The considerate grape reveals itself as a loving duck to those who look",
+            "done": false
+        },
+        {
+            "id": 5,
+            "user_id": 3,
+            "task": "It's an undeniable fact, really; a cheetah sees a pomegranate as a likeable sheep",
+            "done": false
+        },
+        {
+            "id": 6,
+            "user_id": 6,
+            "task": "Those grapes are nothing more than rabbits",
+            "done": false
+        },
+        {
+            "id": 7,
+            "user_id": 5,
+            "task": "By the waysome posit the loving pineapple to be less than cooperative",
+            "done": true
+        },
+        {
+            "id": 8,
+            "user_id": 3,
+            "task": "It's very tricky, if not impossible, their orange was, in this moment, a straightforward nectarine",
+            "done": true
+        },
+        {
+            "id": 9,
+            "user_id": 7,
+            "task": "Quoting with intend: \"The zeitgeist contends that some decisive raspberries are thought of simply as kumquats.",
+            "done": false
+        },
+        {
+            "id": 10,
+            "user_id": 6,
+            "task": "Shouting with happiness, a pig of the camel is assumed to be a sensible pig",
+            "done": true
+        },
+        {
+            "id": 11,
+            "user_id": 5,
+            "task": "The first charming tiger is, in its own way, a hamster",
+            "done": false
+        },
+        {
+            "id": 12,
+            "user_id": 7,
+            "task": "A lion of the elephant is assumed to be a dazzling apple",
+            "done": false
+        },
+        {
+            "id": 13,
+            "user_id": 6,
+            "task": "She said: \"Some posit the fabulous bear to be less than coherent.",
+            "done": true
+        },
+        {
+            "id": 14,
+            "user_id": 8,
+            "task": "The literature would have us believe that a resourceful prune is not but a squirrel",
+            "done": false
+        },
+        {
+            "id": 15,
+            "user_id": 6,
+            "task": "In her own words: \"Those currants are nothing more than raspberries.",
+            "done": false
+        },
+        {
+            "id": 16,
+            "user_id": 5,
+            "task": "Framed in a different way, a confident seal is a grapes of the mind",
+            "done": false
+        },
+        {
+            "id": 17,
+            "user_id": 5,
+            "task": "Quoting with intend: \"A resourceful frog is a panda of the mind!",
+            "done": false
+        },
+        {
+            "id": 18,
+            "user_id": 6,
+            "task": "The blueberries could be said to resemble righteous elephants",
+            "done": true
+        },
+        {
+            "id": 19,
+            "user_id": 3,
+            "task": "An encouraging lion without melons is truly a fox of exclusive elephants",
+            "done": true
+        },
+        {
+            "id": 20,
+            "user_id": 7,
+            "task": "They were lost without the vigorous peach that composed their lime",
+            "done": false
+        },
+        {
+            "id": 21,
+            "user_id": 6,
+            "task": "The first vivacious alligator is, in its own way, a nectarine",
+            "done": true
+        },
+        {
+            "id": 22,
+            "user_id": 6,
+            "task": "A pig can hardly be considered a sensitive lime without also being a currant",
+            "done": false
+        },
+        {
+            "id": 23,
+            "user_id": 6,
+            "task": "The zeitgeist contends that before elephants, octopus were only blueberries",
+            "done": false
+        },
+        {
+            "id": 24,
+            "user_id": 7,
+            "task": "What we don't know for sure is whether or not we can assume that any instance of a pig can be construed as a determined pear",
+            "done": true
+        },
+        {
+            "id": 25,
+            "user_id": 6,
+            "task": "The cranberries could be said to resemble bright bees",
+            "done": false
+        },
+        {
+            "id": 26,
+            "user_id": 6,
+            "task": "Some vigorous zebras are thought of simply as horses",
+            "done": false
+        },
+        {
+            "id": 27,
+            "user_id": 5,
+            "task": "As far as we can estimate, their plum was, in this moment, a pro-active orange",
+            "done": false
+        },
+        {
+            "id": 28,
+            "user_id": 2,
+            "task": "As far as he is concerned, the impartial cranberry reveals itself as a generous cat to those who look",
+            "done": false
+        },
+        {
+            "id": 29,
+            "user_id": 6,
+            "task": "We can assume that any instance of a hippopotamus can be construed as a faithful melon",
+            "done": false
+        },
+        {
+            "id": 30,
+            "user_id": 5,
+            "task": "Some assert that an amused banana's grapes comes with it the thought that the pleasant elephant is a kumquat",
+            "done": false
+        },
+        {
+            "id": 31,
+            "user_id": 3,
+            "task": "Authors often misinterpret the hamster as a thoughtful grapes, when in actuality it feels more like a selective lime",
+            "done": false
+        },
+        {
+            "id": 32,
+            "user_id": 5,
+            "task": "A understanding peach without peaches is truly a octopus of tough tangerines",
+            "done": false
+        },
+        {
+            "id": 33,
+            "user_id": 6,
+            "task": "Authors often misinterpret the owl as a self-disciplined fox, when in actuality it feels more like a modern fig",
+            "done": false
+        },
+        {
+            "id": 34,
+            "user_id": 4,
+            "task": "An excellent puppy without octopus is truly a horse of vigorous dogs",
+            "done": true
+        },
+        {
+            "id": 35,
+            "user_id": 5,
+            "task": "Draped neatly on a hanger, the rat is a deer",
+            "done": false
+        },
+        {
+            "id": 36,
+            "user_id": 4,
+            "task": "A friendly horse's currant comes with it the thought that the happy persimmon is an elephant",
+            "done": false
+        },
+        {
+            "id": 37,
+            "user_id": 7,
+            "task": "Incomprehensibilities of a loving rat and a panda made a lion jolly",
+            "done": false
+        },
+        {
+            "id": 38,
+            "user_id": 7,
+            "task": "Congratulations to the kiwi that won the receptive grape with a camel",
+            "done": false
+        },
+        {
+            "id": 39,
+            "user_id": 4,
+            "task": "In modern times a cat is the blackberry of a cow",
+            "done": false
+        },
+        {
+            "id": 40,
+            "user_id": 5,
+            "task": "An octopus sees a giraffe as a sensitive fly",
+            "done": false
+        },
+        {
+            "id": 41,
+            "user_id": 6,
+            "task": "Those camels are nothing more than tigers",
+            "done": false
+        },
+        {
+            "id": 42,
+            "user_id": 4,
+            "task": "We can assume that any instance of a shark can be construed as a conscientious kangaroo",
+            "done": true
+        },
+        {
+            "id": 43,
+            "user_id": 4,
+            "task": "A grape sees a raspberry as a faithful nectarine",
+            "done": false
+        },
+        {
+            "id": 44,
+            "user_id": 3,
+            "task": "The warm sheep reveals itself as a confident zebra to those who look",
+            "done": false
+        },
+        {
+            "id": 45,
+            "user_id": 7,
+            "task": "Extending this logic, we can assume that any instance of a panda can be construed as a diligent melon",
+            "done": true
+        },
+        {
+            "id": 46,
+            "user_id": 6,
+            "task": "A scorpion is the fig of a currant",
+            "done": false
+        },
+        {
+            "id": 47,
+            "user_id": 3,
+            "task": "Draped neatly on a hanger, incomprehensibilities of a calm strawberry and a fox made a snail diligent",
+            "done": true
+        },
+        {
+            "id": 48,
+            "user_id": 5,
+            "task": "The sheep of a chimpanzee becomes a unassuming snail",
+            "done": false
+        },
+        {
+            "id": 49,
+            "user_id": 10,
+            "task": "Backup the MacBook",
+            "done": false
+        },
+        {
+            "id": 50,
+            "user_id": 9,
+            "task": "Write the damn resolver!",
+            "done": false
+        }
+    ]
+}

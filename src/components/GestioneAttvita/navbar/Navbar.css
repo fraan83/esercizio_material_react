@@ -1,0 +1,177 @@
+.navigation
+{
+    position: fixed;
+    width: 60px;
+    height: 100%;
+    background-color: #2a3948 ;
+    transition: 0.5s;
+    overflow: hidden;
+    z-index: 998;
+}
+
+.navigation:hover
+{
+    width: 300px;
+    text-align: left;
+
+}
+
+.navigation ul
+{
+    position: absolute;
+    top: 70px;
+    left: -40px;
+    right: auto;
+    width: 100%;
+    color: rgb(167, 167, 167);
+    text-align: start;
+
+}
+.navigation ul li{
+    position: realtive;
+    width: 100%;
+    list-style: none;
+}
+
+.navigation ul li a 
+{
+    position: relative;
+   /* display: block;*/
+   align-items: center;
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+    color:rgb(157, 157, 157);
+   
+}
+.navigation ul li a:hover
+{
+    background-color: rgb(49, 81, 108);
+    border-left: 6px solid rgb(126, 14, 14);
+    color: white;
+    text-align: left;
+}
+.navigation ul li a .icon 
+{
+    position: relative; 
+    display: block;
+    min-width: 60px;
+    height: 60px;
+    line-height: 70px;
+    text-align: center;
+    transition: 0.3s;
+
+}
+.navigation ul li a .icon:hover{
+    color: white;
+}
+
+.navigation ul li a .title 
+{
+    position: relative; 
+    display: block;
+    padding: 0 10px;
+    height: 60px;
+    line-height: 60px;
+    text-align: left!important;
+    white-space: nowrap;
+    transition: 0.2s;
+
+}
+
+.navigation ul li a .title:hover
+{
+   color: white;
+}
+
+.userbar 
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 60px;
+    background: rgb(231,231,231);
+    background: linear-gradient(0deg, rgba(231,231,231,1) 0%, rgba(247,252,255,1) 78%, rgba(233,233,233,1) 100%);
+    z-index: 999;
+}
+
+.userbar .logo
+{
+    position: fixed;
+    top:10px;
+    left:10px;
+}
+
+.userbar .logged
+{
+    position: fixed;
+    top: 10px;
+    right: 0px;
+    left: auto;
+    width: 30vw;
+    display: flex;
+    align-items: flex-end;
+}
+
+.userbar .not-logged
+{
+    position: fixed;
+    top: 10px;
+    right: 0px;
+    left: auto;
+    width: 30vw;
+    display: flex;
+    align-items: flex-end;
+}
+
+.userbar .logged span 
+{
+    align-items: flex-end;
+    text-align: end;
+    line-height: 0px;
+    align-self: revert;
+}
+.userbar .logged h4 
+{
+    position: relative;
+    line-height: 20px;
+    left: 5vw;
+   
+}
+.userbar .logged h6
+{
+    position: relative;
+    line-height: 20px;
+    left: 5vw;
+   
+}
+
+.userbar .logged a {
+    line-height: 34px;
+    align-items: center;
+    align-content: space-around;
+    display: inline-flex;
+    text-decoration: none;
+    color: steelblue;
+    font-size: small;
+}
+
+
+.btn-log{
+    padding : 10px;
+    margin: 0 auto;
+    color: rgb(232, 232, 232)!important; 
+    background-color: rgb(19, 89, 129);
+    border-radius: 5px;
+    line-height: normal;
+}
+
+.btn-log:hover{
+    padding : 10px;
+    margin: 0 auto;
+    color: rgb(232, 232, 232); 
+    background-color: rgb(93, 144, 173);
+    border-radius: 5px;
+}
